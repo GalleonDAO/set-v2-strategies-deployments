@@ -1,3 +1,6 @@
+# [DEPRECIATION]
+This repository is now not being developed but can still be forked, maintained & self-hosted
+
 # set-v2-strategies-deployments
 
 This repository manages SetProtocol V2 Strategies contract deployments using the [hardhat-deploy plugin][22].
